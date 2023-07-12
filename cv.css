@@ -1,0 +1,19 @@
+.hero{
+    display: flex;
+    background-color: rgb(65, 65, 65);
+    color: white;
+}
+.hero1{
+    padding-left: 50px;
+    
+}
+
+.language{
+    display: flex;
+}
+.language1{
+    padding-left: 200px;
+}
+.skills{
+    padding-left: 300px;
+}
